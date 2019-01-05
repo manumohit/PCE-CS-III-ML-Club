@@ -22,7 +22,7 @@
 | 19 | PCE16CE094 | Shruti Ganeriwal ||
 | 20 | PCE16CE088 | Sakshi Agarwal ||
 | 21 | PCE16CE104 | Suraj Kumar ||
-
+| 22 | PCE16CE301 | Mohit Agarwal||
 ## Wild Card
 | S.No. | Registration No. | Name | Git Repo Link |
 |-------|------------------|------|---------------|
